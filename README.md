@@ -1,4 +1,4 @@
 # XboxInput
 Test
 
-[!](xbox.jpg)
+![xbox](xbox.jpg)
